@@ -1,0 +1,9 @@
+###python nethound.py
+
+###python nethound.py -p tcp --port 443
+
+###python nethound.py -p udp --port 53
+
+###python nethound.py -p icmp
+
+###python nethound.py -c 10
