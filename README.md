@@ -29,3 +29,5 @@
 ```bash
 git clone [https://github.com/Arif-PySec/NetHound.git](https://github.com/Arif-PySec/NetHound.git)
 cd NetHound
+2. **Install Required:**
+pip install scapy
