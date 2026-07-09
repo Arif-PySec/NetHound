@@ -29,5 +29,18 @@
 ```bash
 git clone [https://github.com/Arif-PySec/NetHound.git](https://github.com/Arif-PySec/NetHound.git)
 cd NetHound
-2. **Install Required:**
+```
+### 2. **Install Required:**
 pip install scapy
+
+##🚀 How to Run NetHound
+***python nethound.py
+
+###Protocol & Port Filtering
+***python nethound.py -p tcp --port 443
+***python nethound.py -p udp --port 53
+***python nethound.py -p icmp
+***python nethound.py -c 10
+
+##👨‍💻 Author & Attribution
+![Developed by Arif-PySe GitHub:](https://github.com/Arif-PySec)
