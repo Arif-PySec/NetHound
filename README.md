@@ -44,3 +44,11 @@ pip install scapy
 
 ##  👨‍💻 Author & Attribution
 ![Developed by Arif-PySe GitHub:](https://github.com/Arif-PySec)
+
+---
+
+## 📱 Project Demo & Community
+
+Check out the live execution breakdown and CLI screenshot on LinkedIn:
+
+* 🔗 **LinkedIn Project Post & Demo:** [View Post on LinkedIn](https://www.linkedin.com/in/arif-saeed-15a069406/)
